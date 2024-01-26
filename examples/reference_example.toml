@@ -1,0 +1,12 @@
+[info]
+title = "Clipboard: Shipping Report"
+game = "BONELAB"
+map = "01 - Descent"
+tags = ["clipboards", "the void"]
+summary = "Brief summary of the contents"
+authors = ["Me", "You", "Your mom"]
+
+[content]
+description = "A description of the source, where it can be found, any prerequisites etc."
+image = "bonelab/clipboards/clipboard_01.png"
+transcription = "Transcript of the text on the clipboard"
